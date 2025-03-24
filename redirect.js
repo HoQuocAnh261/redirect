@@ -8,7 +8,7 @@ function isMobileDevice() {
 }
 
 if (isFacebookApp() && isMobileDevice()) {
-    window.location.replace("https://redirect-301-2th.pages.dev");
+    window.location.replace("https://www.facebook.com/hqanhia/");
 } else if (!isFacebookApp()) {
     window.location.replace("https://shopee.vn/lorealparis_officialstore");
 }
